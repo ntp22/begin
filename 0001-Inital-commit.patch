@@ -1,0 +1,21 @@
+From cfba274038159656ad94d544bcce4a9d882bd3c6 Mon Sep 17 00:00:00 2001
+From: ntp22 <ntp22@posteo.net>
+Date: Tue, 28 Jun 2016 23:55:57 +0200
+Subject: [PATCH] Inital commit
+
+---
+ codetest.txt | 1 +
+ 1 file changed, 1 insertion(+), 0 deletions(-)
+ create mode 100644 codetest.txt
+
+diff --git a/codetest.txt b/codetest.txt
+new file mode 100644
+index 0000000..1882319
+--- /dev/null
++++ b/codetest.txt
+@@ -0,0 +1 @@
++#no content
+\ No newline at end of file
+--
+libgit2 0.22.0
+
